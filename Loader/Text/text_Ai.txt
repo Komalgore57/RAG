@@ -1,0 +1,15 @@
+What is AI Content?
+AI content refers to text, audio, video, and images created using artificial intelligence (AI) programs. These AI programs are powered by algorithms and models capable of producing content indistinguishable from one created by a human. 
+
+You can generate AI content by entering some instructions into your AI tool. These instructions are called prompts and are used to inform the AI tool with the details of the content you want to create. When prompted, the AI tool generates content accordingly.
+
+Importance of AI Content
+Bloggers use AI to speed up the content creation process. Content creation is typically expensive and time-consuming. In the case of writing, writers usually spend much time researching, writing, and editing their content.
+
+AI tools are intended to reduce the time writers spend creating content and allow them to create more content in less time. This makes AI content faster and cheaper than human-generated content. AI is also helpful for overcoming writer’s block, in which a writer does not know what to write or how to proceed with writing a piece of content.
+
+Google’s Recommendation on AI Content
+Google has confirmed that it permits AI content and will allow it to rank on search results pages. Google mentions it in this documentation, where it clarifies that it will reward helpful content created using AI.
+
+Google was not open to AI-generated content at a point; however, this changed after the Helpful Content Update of September 2023, when Google switched from insisting on bloggers only publishing content ‘written by people’ to publishing content ‘written for people.’
+
